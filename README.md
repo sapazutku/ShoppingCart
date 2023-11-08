@@ -1,17 +1,10 @@
-# Trendyol Checkout Case
+# Shopping Cart
 
 ## Contents
-- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Architecture](#architecture)
 - [Technologies](#technologies)
-
-## Description
-This project is a case study for Trendyol Backend Bootcamp. 
-It is a shopping cart API developed using Java Spring Framework.
-While developing the project, I tried to meet all the requirements in the case study document.
-I tested these requirements with unit tests that I created.
 
 ## Installation
 ### Prerequisites
@@ -84,7 +77,5 @@ The file architecture was created using this article and video:
 - Java 17
 - Spring Boot 3.5.1
 - Spring Data JPA
-- JUnit 5
 - H2 Database
-- IntelliJ IDEA
 - Docker
